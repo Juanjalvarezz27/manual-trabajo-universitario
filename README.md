@@ -1,21 +1,30 @@
-# manual-trabajo-universitario
+# 📘 Manual de Buenas Prácticas para Trabajos Universitarios
 
-# Manual de Buenas Prácticas para Trabajos Universitarios
+Este manual colaborativo fue desarrollado por estudiantes con el objetivo de documentar buenas prácticas al momento de realizar trabajos en grupo. Todo el proceso fue gestionado mediante Git y GitHub.
 
-Este proyecto busca documentar buenas prácticas para trabajar en equipo en la universidad.
-Usamos Git y GitHub como herramienta de colaboración y control de versiones.
+## 📂 Estructura del repositorio
 
-## Estructura
-- `/documentos`: contiene el manual principal.
-- `/imagenes`: gráficos o diagramas.
-- `/referencias`: bibliografía y enlaces útiles.
-- `/plantillas`: modelos de portada, presentaciones, etc.
+- `/documentos`: contiene el manual (`manual.md`) y su versión final en PDF.
+- `/imagenes`: imágenes y diagramas.
+- `/referencias`: bibliografía y fuentes.
+- `/plantillas`: modelos de portadas y presentaciones.
 
-## Cómo contribuir
-1. Crear una rama con tu nombre y la sección asignada.
-2. Realiza tus aportes.
-3. Haz un Pull Request.
-4. Comenta y revisa el trabajo de los demás.
+## 👥 Cómo contribuir
+
+1. Crea una rama con tu nombre y el tema asignado.
+2. Haz tus cambios en `manual.md`.
+3. Realiza un Pull Request hacia `main`.
+4. Revisa los PR de tus compañeros y resuelve conflictos si es necesario.
+
+## 🛠️ Herramientas utilizadas
+
+- Git y GitHub (ramas, PR, Issues, tags, Project Board)
+- Markdown (`manual.md`)
+- Exportación a PDF
+
+## 🏁 Versión actual
+
+`v1.1` – incluye secciones: Formato APA, Gestión del Tiempo, Presentaciones Efectivas, Herramientas Colaborativas
 
 ## Equipo
 - Juan Sarmiento
